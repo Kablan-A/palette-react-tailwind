@@ -20,7 +20,7 @@ function Nav() {
     return () => {
       window.removeEventListener("scroll", () => {});
     };
-  }, [window.scrollY]);
+  }, []);
 
   return (
     <>
