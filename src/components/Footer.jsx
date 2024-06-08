@@ -17,13 +17,13 @@ function Footer() {
                 and stay inspired!
               </p>
 
-              <a href="#">
+              <a href="/">
                 <button
                   className="px-2 w-64 h-9 footer-link flex items-center justify-between 
                           border border-[#E0E0E0] hover:shadow-footerSignIn transition-shadow"
                 >
                   <span
-                    href="#"
+                    href="/"
                     className="footer-link underline underline-offset-2"
                   >
                     Sign In
@@ -47,17 +47,17 @@ function Footer() {
               <ul className="footer-list">
                 <li className="footer-link mb-2 hover:no-underline">Shop</li>
                 <li>
-                  <a href="#" className="footer-link">
+                  <a href="/" className="footer-link">
                     Paints
                   </a>
                 </li>
                 <li>
-                  <a href="#" className="footer-link">
+                  <a href="/" className="footer-link">
                     Samples
                   </a>
                 </li>
                 <li>
-                  <a href="#" className="footer-link">
+                  <a href="/" className="footer-link">
                     Supplies
                   </a>
                 </li>
@@ -68,17 +68,17 @@ function Footer() {
                   Discover
                 </li>
                 <li>
-                  <a href="#" className="footer-link">
+                  <a href="/" className="footer-link">
                     Gallery
                   </a>
                 </li>
                 <li>
-                  <a href="#" className="footer-link">
+                  <a href="/" className="footer-link">
                     Air purifying
                   </a>
                 </li>
                 <li>
-                  <a href="#" className="footer-link">
+                  <a href="/" className="footer-link">
                     Pro
                   </a>
                 </li>
@@ -87,17 +87,17 @@ function Footer() {
               <ul className="footer-list">
                 <li className="footer-link mb-2 hover:no-underline">About</li>
                 <li>
-                  <a href="#" className="footer-link">
+                  <a href="/" className="footer-link">
                     About us
                   </a>
                 </li>
                 <li>
-                  <a href="#" className="footer-link">
+                  <a href="/" className="footer-link">
                     FAQ
                   </a>
                 </li>
                 <li>
-                  <a href="#" className="footer-link">
+                  <a href="/" className="footer-link">
                     Shipping & Returns
                   </a>
                 </li>
@@ -105,10 +105,10 @@ function Footer() {
             </div>
 
             <div className="flex items-center gap-6">
-              <a href="#" className="footer-link">
+              <a href="/" className="footer-link">
                 @Palette.eco
               </a>
-              <a href="#" className="footer-link">
+              <a href="/" className="footer-link">
                 contact@palette.eco
               </a>
             </div>
@@ -123,16 +123,16 @@ function Footer() {
       <div className="grid sm:grid-cols-2 place-content-center gap-6">
         <div className="flex sm:self-start items-center gap-24">
           <p className="footer-link hover:no-underline">4.3—5</p>
-          <a href="#" className="footer-link">
+          <a href="/" className="footer-link">
             We are on Trustpilot
           </a>
         </div>
 
         <div className="flex sm:place-self-end items-center gap-6 sm:gap-24">
-          <a href="#" className="footer-link">
+          <a href="/" className="footer-link">
             Terms of service
           </a>
-          <a href="#" className="footer-link">
+          <a href="/" className="footer-link">
             Privacy Policy
           </a>
         </div>

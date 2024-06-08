@@ -6,22 +6,22 @@ function NavDesk() {
     >
       <ul className="nav-list">
         <li>
-          <a href="#" className="nav-link">
+          <a href="/" className="nav-link">
             paints
           </a>
         </li>
         <li>
-          <a href="#" className="nav-link">
+          <a href="/" className="nav-link">
             samples
           </a>
         </li>
         <li>
-          <a href="#" className="nav-link">
+          <a href="/" className="nav-link">
             gallery
           </a>
         </li>
         <li>
-          <a href="#" className="nav-link">
+          <a href="/" className="nav-link">
             faq
           </a>
         </li>
@@ -29,17 +29,17 @@ function NavDesk() {
 
       <ul className="nav-list">
         {/* <li>
-          <a href="#" className="nav-link">
+          <a href="/" className="nav-link">
             calculator
           </a>
         </li> */}
         <li>
-          <a href="#" className="nav-link">
+          <a href="/" className="nav-link">
             sign in
           </a>
         </li>
         <li>
-          <a href="#" className="nav-link">
+          <a href="/" className="nav-link">
             cart
           </a>
         </li>

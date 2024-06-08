@@ -22,12 +22,12 @@ function NavMobile() {
 
         <ul className="nav-list">
           <li>
-            <a href="#" className="nav-link-mobile">
+            <a href="/" className="nav-link-mobile">
               sign in
             </a>
           </li>
           <li>
-            <a href="#" className="nav-link-mobile">
+            <a href="/" className="nav-link-mobile">
               cart
             </a>
           </li>
@@ -39,22 +39,22 @@ function NavMobile() {
 
           <ul className="w-full grid grid-cols-2 place-items-center gap-5">
             <li>
-              <a href="#" className="nav-link-mobile">
+              <a href="/" className="nav-link-mobile">
                 paints
               </a>
             </li>
             <li>
-              <a href="#" className="nav-link-mobile">
+              <a href="/" className="nav-link-mobile">
                 samples
               </a>
             </li>
             <li>
-              <a href="#" className="nav-link-mobile">
+              <a href="/" className="nav-link-mobile">
                 gallery
               </a>
             </li>
             <li>
-              <a href="#" className="nav-link-mobile">
+              <a href="/" className="nav-link-mobile">
                 faq
               </a>
             </li>
